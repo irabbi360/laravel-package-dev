@@ -1,0 +1,12 @@
+{
+    "name": "rabbi/timezones",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Rabbi",
+            "email": "fazle08rabbi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

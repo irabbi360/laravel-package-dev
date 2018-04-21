@@ -1,0 +1,12 @@
+{
+    "name": "irabbi/timezone",
+    "description": "This demo package will show timezone",
+    "authors": [
+        {
+            "name": "Fazle Rabbi",
+            "email": "fazle08rabbi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
